@@ -1,7 +1,10 @@
-graph.facebook.com
+! Title: Prezão Free adBlock
+! Description: Updates on new unblocked ads
+! Expires: 108 days
+! Homepage: https://github.com/freelp/PreZaoFree_adBlock
+
 www.googleadservices.com
 ms.applovin.com
-
 golfwedgeshop.com
 ncs86.com
 pwa.501bet3.com
